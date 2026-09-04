@@ -1,1 +1,5 @@
 fastmcp
+langchain[openai]
+langchain-mcp-adapters
+langgraph
+dotenv
